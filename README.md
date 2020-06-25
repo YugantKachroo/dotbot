@@ -1,0 +1,2 @@
+# dotbot
+A discord bot
